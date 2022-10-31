@@ -1,6 +1,11 @@
 # Private API keys
 constants.py
 
+# User like histories
+history/
+
+# ============================= python.gitignore ==============================
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
