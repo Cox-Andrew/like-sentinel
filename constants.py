@@ -1,0 +1,9 @@
+# Pushbullet auth
+PUSHBULLET_KEY = 
+
+# Twitter auth
+BEARER_TOKEN = 
+CONSUMER_KEY = 
+CONSUMER_SECRET = 
+ACCESS_TOKEN = 
+ACCESS_TOKEN_SECRET = 
